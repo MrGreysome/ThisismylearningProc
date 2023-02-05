@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "469a6082e7253bd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3443753d5e54ff0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Bug Bounty/Bug Bounty.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5704bfc0dfd11d33",
+    "type": "split",
+    "children": [
+      {
+        "id": "27b4c3c91e6e4828",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cea6a95c96bf979",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ea35bb5e6f8c2861",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "git",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 306
+  },
+  "right": {
+    "id": "5a154498fb117117",
+    "type": "split",
+    "children": [
+      {
+        "id": "f49da984754c2f54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43918a21d1dcb7a8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bug Bounty/Bug Bounty.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ea35bb5e6f8c2861",
+  "lastOpenFiles": [
+    "Bug Bounty/Bug Bounty.md",
+    "Bug Bounty/Pentest/Web Application Countermeasures.md",
+    "Bug Bounty/The Bug Bounty Methodology (JH).md",
+    "Bug Bounty/IDOR.md",
+    "Bug Bounty/Pentest/Recon.md",
+    "Bug Bounty/XSS.md",
+    "Bug Bounty/XXE XML.md",
+    "Bug Bounty/Pentest/OWASP methodology.md",
+    "Bug Bounty/Pentest/Fuzzing.md",
+    "Workflow.md"
+  ]
+}
